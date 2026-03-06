@@ -28,12 +28,6 @@ Programa desarrollado en Java que implementa la estructura de datos Lista Doblem
 8. Buscar elemento por índice
 9. Borrar un elemento
 
-## Cómo ejecutar
-
-1. Abre la carpeta del proyecto en Visual Studio Code
-2. Abre el archivo Main.java
-3. Haz clic en Run Java o presiona F5
-
 ## Estructura del proyecto
 
 ListaDoblementeEnlazada/
